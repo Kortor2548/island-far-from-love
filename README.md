@@ -13,7 +13,7 @@ project-root/
 │   ├── SnakeGame.h        ✅ มีประกาศ class SnakeGame
 │   ├── SnakeGame.cpp      ✅ มี implementation เช่น SnakeGame::SnakeGame() และ SnakeGame::run()
 │   └── main.cpp           ✅ สร้าง object SnakeGame และเรียก run()
-├── snack.exe              ✅ Executable Programs. 
+├── snake.exe              ✅ Executable Programs. 
 
 ```
 
